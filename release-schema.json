@@ -1,0 +1,16 @@
+{
+  "definitions": {
+    "Tender": {
+      "properties": {
+        "expressionEmail": {
+          "title": "Correo expresiones de interés",
+          "description": "Contiene un correo para remitir las expresiones de interés por parte de los oferentes",
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    }
+  }
+}
